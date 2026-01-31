@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "question": "Qui a écrit Don Quichotte ?",
+    "options": ["Victor Hugo", "Miguel de Cervantès", "Paulo Coelho", "Albert Camus"],
+    "answer_index": 1
+  },
+  {
+    "id": 2,
+    "question": "Dans Don Quichotte, que combat le héros en croyant affronter des ennemis ?",
+    "options": ["Des dragons", "Des géants", "Des moulins à vent", "Des chevaliers"],
+    "answer_index": 2
+  },
+  {
+    "id": 3,
+    "question": "Qui a écrit La Métamorphose ?",
+    "options": ["Albert Camus", "Franz Kafka", "Eugène Ionesco", "Jean-Paul Sartre"],
+    "answer_index": 1
+  },
+  {
+    "id": 4,
+    "question": "Dans La Métamorphose, le sentiment dominant est :",
+    "options": ["La joie", "L’angoisse", "La fierté", "La révolte"],
+    "answer_index": 1
+  },
+  {
+    "id": 5,
+    "question": "Qui a écrit Les Misérables ?",
+    "options": ["Balzac", "Zola", "Victor Hugo", "Flaubert"],
+    "answer_index": 2
+  },
+  {
+    "id": 6,
+    "question": "Qui est le personnage principal des Misérables ?",
+    "options": ["Javert", "Jean Valjean", "Marius", "Gavroche"],
+    "answer_index": 1
+  },
+  {
+    "id": 7,
+    "question": "La Chanson de Roland est une œuvre majeure de :",
+    "options": ["Renaissance", "Littérature médiévale", "Littérature classique", "Moderne"],
+    "answer_index": 1
+  },
+  {
+    "id": 8,
+    "question": "Dans Le Père Goriot, le personnage représentant l’ambition sociale est :",
+    "options": ["Vautrin", "Le Père Goriot", "Eugène de Rastignac", "Delphine"],
+    "answer_index": 2
+  },
+  {
+    "id": 9,
+    "question": "Qui a écrit L’Étranger ?",
+    "options": ["Albert Camus", "Jean-Paul Sartre", "Kafka", "Ionesco"],
+    "answer_index": 0
+  },
+  {
+    "id": 10,
+    "question": "Qui est le personnage principal de L’Étranger ?",
+    "options": ["Raymond", "Meursault", "Marie", "Le procureur"],
+    "answer_index": 1
+  },
+  {
+    "id": 11,
+    "question": "Les Fleurs du mal appartiennent principalement à quel courant littéraire ?",
+    "options": ["Romantisme", "Classicisme", "Modernité poétique", "Surréalisme"],
+    "answer_index": 2
+  },
+  {
+    "id": 12,
+    "question": "Le genre des Fleurs du mal est :",
+    "options": ["Roman", "Théâtre", "Poésie", "Essai"],
+    "answer_index": 2
+  },
+  {
+    "id": 13,
+    "question": "Qui a écrit Hamlet ?",
+    "options": ["Shakespeare", "Racine", "Corneille", "Molière"],
+    "answer_index": 0
+  },
+  {
+    "id": 14,
+    "question": "Le personnage principal de L’Alchimiste est :",
+    "options": ["Santiago", "Paulo", "José", "Pedro"],
+    "answer_index": 0
+  },
+  {
+    "id": 15,
+    "question": "Qui a écrit Cent ans de solitude ?",
+    "options": ["Borges", "Cortázar", "García Márquez", "Vargas Llosa"],
+    "answer_index": 2
+  },
+  {
+    "id": 16,
+    "question": "La famille centrale de Cent ans de solitude est :",
+    "options": ["Buendía", "Morales", "Santiago", "Márquez"],
+    "answer_index": 0
+  },
+  {
+    "id": 17,
+    "question": "Qui a écrit La Peste ?",
+    "options": ["Camus", "Sartre", "Kafka", "Orwell"],
+    "answer_index": 0
+  },
+  {
+    "id": 18,
+    "question": "Qui a écrit Rhinocéros ?",
+    "options": ["Ionesco", "Beckett", "Sartre", "Camus"],
+    "answer_index": 0
+  },
+  {
+    "id": 19,
+    "question": "Rhinocéros appartient au courant :",
+    "options": ["Réalisme", "Romantisme", "Théâtre de l’absurde", "Naturalisme"],
+    "answer_index": 2
+  },
+  {
+    "id": 20,
+    "question": "Madame Bovary appartient principalement au :",
+    "options": ["Romantisme", "Réalisme", "Symbolisme", "Classicisme"],
+    "answer_index": 1
+  },
+  {
+    "id": 21,
+    "question": "Le personnage principal de Madame Bovary est :",
+    "options": ["Emma Bovary", "Charles Bovary", "Léon", "Rodolphe"],
+    "answer_index": 0
+  },
+  {
+    "id": 22,
+    "question": "L’Odyssée appartient principalement à :",
+    "options": ["Médiévale", "Antique", "Renaissance", "Classicisme"],
+    "answer_index": 1
+  },
+  {
+    "id": 23,
+    "question": "Le héros de L’Odyssée est :",
+    "options": ["Achille", "Ulysse", "Hector", "Énée"],
+    "answer_index": 1
+  },
+  {
+    "id": 24,
+    "question": "Qui a écrit Antigone (tragédie antique) ?",
+    "options": ["Sophocle", "Eschyle", "Euripide", "Aristophane"],
+    "answer_index": 0
+  },
+  {
+    "id": 25,
+    "question": "Qui a écrit Candide ?",
+    "options": ["Voltaire", "Rousseau", "Diderot", "Montesquieu"],
+    "answer_index": 0
+  },
+  {
+    "id": 26,
+    "question": "Candide critique principalement :",
+    "options": ["Pessimisme", "Optimisme excessif", "Romantisme", "Naturalisme"],
+    "answer_index": 1
+  },
+  {
+    "id": 27,
+    "question": "Qui a écrit La Mémoire tatouée ?",
+    "options": ["Abdelkébir Khatibi", "Ben Jelloun", "Mahfouz", "Adonis"],
+    "answer_index": 0
+  },
+  {
+    "id": 28,
+    "question": "Le genre dominant de La Mémoire tatouée est :",
+    "options": ["Policier", "Autobiographie", "Épopée", "Tragédie"],
+    "answer_index": 1
+  },
+  {
+    "id": 29,
+    "question": "Qui est connu pour la satire poétique à l’époque omeyyade ?",
+    "options": ["Jarir", "Adonis", "Darwich", "Mutanabbi"],
+    "answer_index": 0
+  },
+  {
+    "id": 30,
+    "question": "Al-Farazdaq est associé à :",
+    "options": ["Roman", "Satire", "Théâtre", "Soufisme"],
+    "answer_index": 1
+  },
+  {
+    "id": 31,
+    "question": "Qui a écrit Roméo et Juliette ?",
+    "options": ["Shakespeare", "Molière", "Racine", "Corneille"],
+    "answer_index": 0
+  },
+  {
+    "id": 32,
+    "question": "Roméo et Juliette est une œuvre :",
+    "options": ["Comique", "Historique", "Tragique", "Didactique"],
+    "answer_index": 2
+  },
+  {
+    "id": 33,
+    "question": "À quel siècle appartient principalement le romantisme littéraire ?",
+    "options": ["XVIIe", "XVIIIe", "XIXe", "XXe"],
+    "answer_index": 2
+  },
+  {
+    "id": 34,
+    "question": "Victor Hugo est principalement associé au courant :",
+    "options": ["Classicisme", "Réalisme", "Romantisme", "Symbolisme"],
+    "answer_index": 2
+  },
+  {
+    "id": 35,
+    "question": "La Chanson de Roland appartient au genre :",
+    "options": ["Roman courtois", "Chanson de geste", "Fable", "Farce"],
+    "answer_index": 1
+  },
+  {
+    "id": 36,
+    "question": "Un sonnet est un poème composé traditionnellement de :",
+    "options": ["10 vers", "12 vers", "14 vers", "16 vers"],
+    "answer_index": 2
+  },
+  {
+    "id": 37,
+    "question": "« La terre est bleue comme une … »",
+    "options": ["mer", "nuit", "orange", "fleur"],
+    "answer_index": 2
+  },
+  {
+    "id": 38,
+    "question": "« Ô lac ! l’année à peine a fini sa … »",
+    "options": ["route", "trace", "course", "vie"],
+    "answer_index": 2
+  },
+  {
+    "id": 39,
+    "question": "« Le cœur a ses raisons que la raison … »",
+    "options": ["combat", "refuse", "ignore", "détruit"],
+    "answer_index": 2
+  },
+  {
+    "id": 40,
+    "question": "Roland Barthes est notamment connu pour avoir développé la notion de :",
+    "options": ["Le héros tragique", "L’écriture automatique", "La mort de l’auteur", "Le roman d’apprentissage"],
+    "answer_index": 2
+  }
+]
